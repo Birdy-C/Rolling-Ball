@@ -1,0 +1,30 @@
+# Created by Every File Explorer
+
+newmtl kage
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+map_Kd roomitem_s_kage.png
+
+newmtl mat_snowman_01_kaito
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+map_Kd roomitems_025_daruma.png
+
+newmtl s025_bottom
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+map_Kd roomitems_025_sitaji.png
+
+newmtl s025_snow_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+map_Kd roomitem_027_yukihuru.png
+
